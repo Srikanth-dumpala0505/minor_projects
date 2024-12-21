@@ -1,0 +1,6 @@
+div{
+    border: 2px solid rgb(64, 64, 64);
+    display: inline;
+    position:absolute;
+    margin-left: 30%
+}
